@@ -3,7 +3,7 @@
 [Link to Kaggle Competition:](https://www.kaggle.com/c/bosch-production-line-performance)
 
 [![Video Description](https://img.youtube.com/vi/GmUUIvj571Q/0.jpg)](https://www.youtube.com/watch?v=GmUUIvj571Q)
-
+### Report : bda_report.pdf
 ---
 ### Directory Structure:
 
